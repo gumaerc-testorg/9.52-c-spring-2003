@@ -5,16 +5,15 @@ description: The links provided in this section are online references for additi
   societies that maintain links to areas that any reader can explore in the field.
   Many of the linked sites provide resources for further study, as well as downloadable
   resources that can be used for classroom teaching.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: b5ffce8f-65a3-cbea-f298-54303e0b23da
 ---
-
 The links below are online references for additional resources in the fields of computational cognitive science. These range from professional societies that maintain links to areas that any reader can explore in the field. Many of the linked sites provide resources for further study, as well as downloadable resources that can be used for classroom teaching.
 
-Cognition
----------
+## Cognition
 
 The [Cognitive Science Society](http://www.cognitivesciencesociety.org/) has the latest news and information on conferences, funding, and employment, along with a host of related conferences.
 
@@ -26,12 +25,11 @@ The [Organization for Human Brain Mapping](http://www.humanbrainmapping.org/) pr
 
 The [Psychonomic Society](http://www.psychonomic.org/) promotes the communication of scientific research in psychology and allied sciences.
 
-The [Federation of Behavioral, Psychological and Cognitive Sciences (PDF)](http://cred.columbia.edu/files/2012/01/2009NSTCSBEbriefing.pdf) is a coalition of [Member Organizations](http://www.thefederationonline.org/), university departments of psychology, schools of education, research centers, regional psychological associations, and science divisions of the American Psychological Association (APA).
+The [Federation of Behavioral, Psychological and Cognitive Sciences (PDF)](http://cred.columbia.edu/files/2012/01/2009NSTCSBEbriefing.pdf) is a coalition of [Member Organizations](https://fabbs.org/), university departments of psychology, schools of education, research centers, regional psychological associations, and science divisions of the American Psychological Association (APA).
 
 The [American Society of Neuroimaging](http://www.asnweb.org/) is an international, professional organization representing neurologists, neurosurgeons, neuroradiologists and other neuroscientists who are dedicated to the advancement of techniques used to evaluate the nervous system.
 
-Linguistics
------------
+## Linguistics
 
 The [American Association for Applied Linguistics](http://www.aaal.org/) is a professional organization of scholars who are interested in and actively contribute to the multi-disciplinary field of applied linguistics.
 
@@ -47,25 +45,21 @@ The [Linguistic Society of America](https://www.linguisticsociety.org/) serves i
 
 The [Philological Society](http://www.philsoc.org.uk/) is devoted to the scholarly study of language and languages.
 
-Neuroscience
-------------
+## Neuroscience
 
 The [Society for Neuroscience](http://www.sfn.org/) addresses the study of brain development, sensation and perception, learning and memory, movement, sleep, stress, aging and neurological and psychiatric disorders. It also includes the molecules, cells and genes responsible for nervous system functioning.
 
 The [National Institute on Aging](http://www.nia.nih.gov/) leads a broad scientific effort to understand the nature of aging and to extend the healthy, active years of life.
 
-Anatomy
--------
+## Anatomy
 
 [Neuroanatomy online at University of Utah](http://library.med.utah.edu/WebPath/HISTHTML/NEURANAT/NEURANCA.html). This site contains interactive multimedia which allows the learner to move between diagrams, gross anatomy, microscopic specimens, definitions, and atlases in a manner tailored to the student's needs.
 
-Online References
------------------
+## Online References
 
 [The Whole Brain](http://www.med.harvard.edu/AANLIB/home.html) atlas is a site that is hosted by the Harvard medical school which displays pictures from MRI to fMRI in various disease states.
 
-Computation
------------
+## Computation
 
 The [FoCM Workshop on Learning Theory](http://www.damtp.cam.ac.uk/user/na/FoCM/index.html) supports and promotes research on foundations of computational mathematics. It fosters interaction among mathematics, computer science and other areas of computational science through its conferences, workshops and publications.
 
