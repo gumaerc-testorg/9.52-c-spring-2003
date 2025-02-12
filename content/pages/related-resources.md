@@ -33,7 +33,7 @@ The [American Society of Neuroimaging](http://www.asnweb.org/) is an internation
 
 The [American Association for Applied Linguistics](http://www.aaal.org/) is a professional organization of scholars who are interested in and actively contribute to the multi-disciplinary field of applied linguistics.
 
-The [American Philological Association](http://www.apaclassics.org/) is the principal learned society for Classical Studies of ancient Greek and Roman languages, literatures, and civilizations.
+The [American Philological Association](https://www.classicalstudies.org/american-philological-association-1) is the principal learned society for Classical Studies of ancient Greek and Roman languages, literatures, and civilizations.
 
 The [Association for Computational Linguistics](http://www.aclweb.org/) is the international scientific and professional society for people working on problems involving natural language and computation.
 
